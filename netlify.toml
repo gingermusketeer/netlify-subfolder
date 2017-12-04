@@ -1,5 +1,5 @@
 [build]
   base    = "subfolder"
-  publish = "public"
+  publish = "subfolder/public"
   command = "yarn build"
 
